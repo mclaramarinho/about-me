@@ -27,5 +27,5 @@ Pizza, Star Wars, singing, coding, weightlifting, and learning new languages.
 
 ### :phone: Contact me :phone:
 <a href="https://www.linkedin.com/in/mclaramarinho/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width:40px; height:40px;"/></a>
-<a href="mailto:marinho.claramb@gmail.com"><i class="fa fa-envelope" style="font-size:40px;color:white"></i></a>
+<a href="mailto:marinho.claramb@gmail.com"><i class="fa-solid fa-envelope" style:"color: white; font-size: 40px;"></i></a>
 
