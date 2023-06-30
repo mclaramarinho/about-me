@@ -9,8 +9,8 @@ Here are some ideas to get you started:-->
 - :alien: Clara, Braziian, 22yo
 
 ## I have knowledge in...
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-
+<i class="devicon-html5-plain"></i>
+          
 - :computer: I have knowledge in HTML, CSS, Bootstrap, Javascript and jQuery
 - :pencil2: Currently learning ReactJS
 - :construction_worker: I'm interested in working as a front-end dev (bbefore becoming full-stack)
