@@ -17,7 +17,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width:40px; height:40px;"/>
 
 ### :notebook_with_decorative_cover: My portfolio :notebook_with_decorative_cover:
-<a href="https://github.com/stars/mclaramarinho/lists/portfolio">Click Here</a>
+<a href="https://github.com/stars/mclaramarinho/lists/portfolio" target="_blank">Click Here</a>
 
 ### :construction_worker: I'm interested in working as... :construction_worker:
 a front-end dev (before becoming full-stack)
@@ -26,6 +26,5 @@ a front-end dev (before becoming full-stack)
 Pizza, Star Wars, singing, coding, weightlifting, and learning new languages.
 
 ### :phone: Contact me :phone:
-<a href="https://www.linkedin.com/in/mclaramarinho/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width:40px; height:40px;"/></a>
-<a href="mailto:marinho.claramb@gmail.com" style="font-size:40px"> 💌 </a>
+<a target="_blank" href="https://www.linkedin.com/in/mclaramarinho/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width:40px; height:40px;"/></a>
 
