@@ -1,6 +1,5 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-          
+<script src="https://kit.fontawesome.com/c87f40724e.js" crossorigin="anonymous"></script>          
 # Hello! 👋
 - :alien: Clara, Braziian, 22yo
 
