@@ -1,4 +1,4 @@
-### Hello! 👋
+# Hello! 👋
 
 <!--
 **mclaramarinho/mclaramarinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 - :alien: Clara, Braziian, 22yo
 
 ## I have knowledge in...
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 
 - :computer: I have knowledge in HTML, CSS, Bootstrap, Javascript and jQuery
 - :pencil2: Currently learning ReactJS
