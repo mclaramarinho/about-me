@@ -26,9 +26,9 @@
 <a href="https://github.com/stars/mclaramarinho/lists/portfolio" target="_blank">Click Here</a>
 
 ### 🗣️ Languages
-🇧🇷 Portuguese (fluent)
-🇺🇸 English (advanced)
-🇩🇪 German (beginner)
+🇧🇷 Portuguese (fluent) <br>
+🇺🇸 English (advanced)<br>
+🇩🇪 German (beginner)<br>
 
 ### :construction_worker: I'm interested in working as... :construction_worker:
 a front-end dev (before becoming full-stack)
