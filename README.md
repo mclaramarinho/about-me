@@ -11,6 +11,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width:40px; height:40px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="width:40px; height:40px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="width:40px; height:40px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width:40px; height:40px;" />
+
+  
 </div>
 
 ### :pencil2: I'm currently learning... :pencil2:
@@ -21,6 +24,9 @@
 
 ### :notebook_with_decorative_cover: My portfolio :notebook_with_decorative_cover:
 <a href="https://github.com/stars/mclaramarinho/lists/portfolio" target="_blank">Click Here</a>
+
+### 🗣️ Languages
+🇧🇷Portuguese (fluent)  🇺🇸English (advanced)  🇩🇪German (beginner)
 
 ### :construction_worker: I'm interested in working as... :construction_worker:
 a front-end dev (before becoming full-stack)
