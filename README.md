@@ -11,11 +11,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width:40px; height:40px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" style="width:40px; height:40px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="width:40px; height:40px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width:40px; height:40px;" />
-<i class="devicon-express-original" style="color:"white"></i>
-
-
-  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width:40px; height:40px;" />  
 </div>
 
 ### :pencil2: I'm currently learning... :pencil2:
@@ -23,7 +19,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width:40px; height:40px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="width:40px; height:40px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width:40px; height:40px;" />
-<a  href="https://icons8.com/icon/kg46nzoJrmTR/express-js">Express Js</a> icon by <a href="https://icons8.com">Icons8</a>
+<img width="40" height="40" src="https://img.icons8.com/ios/50/000000/express-js.png" alt="express-js"/>
 </div>
 
 ### :notebook_with_decorative_cover: My portfolio :notebook_with_decorative_cover:
