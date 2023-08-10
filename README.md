@@ -19,6 +19,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width:40px; height:40px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="width:40px; height:40px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width:40px; height:40px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+          
 </div>
 
 ### :notebook_with_decorative_cover: My portfolio :notebook_with_decorative_cover:
@@ -30,7 +32,7 @@
 🇩🇪 German (beginner)<br>
 
 ### :construction_worker: I'm interested in working as... :construction_worker:
-a front-end dev (before becoming full-stack)
+a front-end dev
 
 ### :blue_heart: I love... :blue_heart:
 Pizza, Star Wars, singing, coding, weightlifting, and learning new languages.
