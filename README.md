@@ -1,5 +1,12 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
+<style>
+  #ex-img > .markdown-body{
+    background-color: white !important;
+  }
+</style>
+
+
 # Hello! 👋
 - :alien: Clara, Braziian, 22yo
 
@@ -11,7 +18,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width:40px; height:40px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" style="width:40px; height:40px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="width:40px; height:40px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width:40px; height:40px;" />  
+<img id="ex-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width:40px; height:40px;" />  
 </div>
 
 ### :pencil2: I'm currently learning... :pencil2:
