@@ -2,7 +2,7 @@
 
 
 # Hello! 👋
-- :alien: Clara, Braziian, 22yo
+- :alien: Clara, Brazilian, 22yo
 
 ### :computer: I have knowledge in... :computer:
 <div style="display: flex">
