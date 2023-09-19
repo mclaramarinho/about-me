@@ -24,7 +24,7 @@
 </div>
 
 ### :notebook_with_decorative_cover: My portfolio :notebook_with_decorative_cover:
-![Click Here](https://clara-marinho.netlify.app)
+[Click Here](https://clara-marinho.netlify.app)
 
 ### 🗣️ Languages
 🇧🇷 Portuguese (fluent) <br>
