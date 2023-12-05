@@ -20,6 +20,7 @@
 <div style="display: flex">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="width:40px; height:40px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width:40px; height:40px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" style="width:40px; height:40px;" />
 <img id="ex-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="width:40px; height:40px; .markdown-body #ex-img {background-color: white !important};" />
 </div>
 
