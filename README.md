@@ -14,14 +14,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="width:40px; height:40px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width:40px; height:40px;" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width:40px; height:40px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="width:40px; height:40px;"/>
+<img id="ex-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="width:40px; height:40px; {background-color: white !important};" />
 </div>
 
 ### I'm currently learning...
 <div style="display: flex">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="width:40px; height:40px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width:40px; height:40px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="width:40px; height:40px;" />
-<img id="ex-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="width:40px; height:40px; .markdown-body #ex-img {background-color: white !important};" />
+<img id="ex-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="width:40px; height:40px; {background-color: white !important};" />
 </div>
 
 ### My portfolio
@@ -32,11 +33,8 @@
 🇺🇸 English (advanced)<br>
 🇩🇪 German (beginner)<br>
 
-### I'm interested in working as...
-a front-end dev
-
 ### I love...
-Pizza, Star Wars, singing, coding, weightlifting, and learning new languages.
+Pizza, Star Wars, singing, coding, weightlifting (gym hiatus for now), and learning new languages.
 
 ### Contact me 
 <a target="_blank" href="https://www.linkedin.com/in/mclaramarinho/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width:40px; height:40px;"/></a>
