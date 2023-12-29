@@ -15,14 +15,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width:40px; height:40px;" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width:40px; height:40px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="width:40px; height:40px;"/>
-<img id="ex-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="width:40px; height:40px; background-color: white;" />
+<img id="ex-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="width:40px; height:40px; background-color: #FFFF;" />
 </div>
 
 ### I'm currently learning...
 <div style="display: flex">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width:40px; height:40px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="width:40px; height:40px;" />
-<img id="ex-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="width:40px; height:40px; background-color: white;" />
+<img id="ex-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="width:40px; height:40px; background-color: #FFFF;" />
 </div>
 
 ### My portfolio
