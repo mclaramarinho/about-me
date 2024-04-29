@@ -26,7 +26,7 @@
 </div>
 
 ### My portfolio
-[Click Here](https://clara-marinho.netlify.app)
+[Click Here](https://claramarinho.vercel.app/)
 
 ### 🗣️ Languages
 🇧🇷 Portuguese (fluent) <br>
